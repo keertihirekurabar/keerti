@@ -1,2 +1,3 @@
 changes to be commited
 file1 commited
+file1 already commited
